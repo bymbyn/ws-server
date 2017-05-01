@@ -13,7 +13,7 @@ import org.springframework.ws.server.endpoint.annotation.ResponsePayload;
 import com.marcin.model.User;
 
 @Endpoint
-@WebService
+//@WebService
 public class UserServiceEndpoint {
 	
 	@Autowired
